@@ -9,6 +9,6 @@
     background-position: center center;
 }
 
-nav {
-    display: block-inline;
+nav, nav>ul, nav>ul>li {
+    display: inline-block;
 }
