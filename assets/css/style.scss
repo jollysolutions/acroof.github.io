@@ -10,7 +10,13 @@
 }
 
 nav, nav>ul, nav>ul>li {
-    display: inline-block;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+nav, nav>ul, nav>ul>li {
+    display: inline;
     margin: auto;
     text-align: center;
 }
