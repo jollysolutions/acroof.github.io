@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: AC Roofing Bolton
-description: All Aspects of Roofing -  07710870602
+description: "All Aspects of Roofing - tel\: 07710870602"
 show_downloads: false
