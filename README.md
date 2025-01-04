@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Home
 
 Located in the North West of England ‘Bolton’ and you are Looking for a trusted, professional roofing contractor? Maybe you require a free, no-obligation quote on a job that needs attention? AC Roofing Specialists provides expert roofing services to commercial and domestic clients across the North West.
