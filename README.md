@@ -7,17 +7,18 @@ Please feel free to spend some time browsing through our website. If you have an
 Services we Offer
 We pride our selves on having our own in-house service. This means that we are able to undertake various situations without any outside interference resulting in a more streamlined professional result.
 
-Roofing
-Repairs
-Re-Roofs
-Flat roofs
-Traditional and modern tiled roofs using clay or concrete tiles
-Traditional and modern slate roofs
-Lead & Chimney work
-Fascia boards and Soffits
-Felting
-Flashing
-Scaffolding
+* Roofing
+* Repairs
+* Re-Roofs
+* Flat roofs
+* Traditional and modern tiled roofs using clay or concrete tiles
+* Traditional and modern slate roofs
+* Lead & Chimney work
+* Fascia boards and Soffits
+* Felting
+* Flashing
+* Scaffolding
+
 All our work is carried out by fully trained and qualified scaffolders, who have to adhere to our working code of practice. This is important as we are dealing with public areas in our day-to-day execution of work. We set out to deliver and maintain a high standard at all times
 
 Firestone Rubber Flat Roofs
@@ -37,17 +38,12 @@ High flexibility and elongation
 Environmentally friendly
 Recovery of rainwater
 
-##Contact
-Address
-
+## Contact
+### Address
 AC Roofing
-
 1 Glencoe Drive
-
 Bolton
-
 BL2 6NN
 
-Phone
-
+### Phone
 07710870602
