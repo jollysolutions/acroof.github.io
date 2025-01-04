@@ -30,19 +30,19 @@ Thanks to a unique combination of features and benefits, Firestone RubberCover i
 
 We offer you an EPDM rubber roofing with unique properties:
 
-Superior durability
-Seamless sheets in 1 piece
-Very low life-cycle cost
-Flame-free and easy installation
-High flexibility and elongation
-Environmentally friendly
-Recovery of rainwater
+* Superior durability
+* Seamless sheets in 1 piece
+* Very low life-cycle cost
+* Flame-free and easy installation
+* High flexibility and elongation
+* Environmentally friendly
+* Recovery of rainwater
 
 ## Contact
 ### Address
-AC Roofing
-1 Glencoe Drive
-Bolton
+AC Roofing\
+1 Glencoe Drive\
+Bolton\
 BL2 6NN
 
 ### Phone
