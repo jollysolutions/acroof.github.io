@@ -6,6 +6,7 @@ layout: default
 We pride our selves on having our own in-house service. This means that we are able to undertake various situations without any outside interference resulting in a more streamlined professional result.
 
 ## Roofing
+
 * Repairs
 * Re-Roofs
 * Flat roofs
@@ -15,10 +16,13 @@ We pride our selves on having our own in-house service. This means that we are a
 * Fascia boards and Soffits
 * Felting
 * Flashing
+
 ## Scaffolding
+
 All our work is carried out by fully trained and qualified scaffolders, who have to adhere to our working code of practice. This is important as we are dealing with public areas in our day-to-day execution of work. We set out to deliver and maintain a high standard at all times
 
 ## Firestone Rubber Flat Roofs
+
 The system is based on high performing EPDM rubber membranes and a limited range of accessories offering a watertight and durable roofing solution.
 
 Firestone RubberCover EPDM Roofing System is the ideal solution for small residential flat roofs and other extensions, verandas, dormers, porches, garages, carports, garden sheds, balconies, gutters and trailers. You name it.
