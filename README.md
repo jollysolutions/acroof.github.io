@@ -46,11 +46,11 @@ Bolton\
 BL2 6NN
 
 ### Phone
-(tel:07710870602)
+[07710870602](tel:07710870602)
 
 ### Email
-(mailto:andyclare86@hotmail.co.uk)
+[andyclare86@hotmail.co.uk](mailto:andyclare86@hotmail.co.uk)
 
 ### Facebook
-(https://www.facebook.com/ACRoofingbolton/)
+[https://www.facebook.com/ACRoofingbolton/](https://www.facebook.com/ACRoofingbolton/)
 
