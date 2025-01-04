@@ -9,13 +9,13 @@
     background-position: center center;
 }
 
-nav, nav>ul, nav>ul>li {
+nav {
     display: block;
     margin: auto;
     text-align: center;
 }
 
-nav, nav>ul, nav>ul>li {
+nav>ul, nav>ul>li {
     display: inline;
     margin: auto;
     text-align: center;
