@@ -41,12 +41,18 @@ Flame-free and easy installation
 High flexibility and elongation
 Environmentally friendly
 Recovery of rainwater
-Contact
+
+##Contact
 Address
+
 AC Roofing
+
 1 Glencoe Drive
+
 Bolton
+
 BL2 6NN
 
 Phone
+
 07710870602
